@@ -6,3 +6,10 @@
 <p>💬 Ask me about Vue JS, React JS.</p>
 <p>📫 How to reach me: aya.mohey162@gmail.com</p>
 <p>📄 Know about my experiences: https://drive.google.com/file/d/18jCyNw4xePSz84C2BGIr31Ss7OYmRBbT/view?usp=sharing</p>
+<br/>
+<h2>Programming Language </h2>
+<ul>
+  <li>C Language </li>
+  <li>JavaScript </li>
+  <li>Typescript </li>
+</ul>
