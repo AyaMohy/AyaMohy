@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Aya Mohy
 
 <h2 align="center"> A passionate frontend developer from Egypt</h2>
-<p>🔭 I’m currently working as a Frontend Developer at develocity Company.</p>
+<p>🔭 I’m currently working as a Frontend Developer at Develocity Company.</p>
 <p>🌱 I’m currently learning Next JS.</p>
 <p>💬 Ask me about Vue JS, React JS.</p>
 <p>📫 How to reach me: aya.mohey162@gmail.com</p>
